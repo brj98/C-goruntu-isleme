@@ -1,0 +1,106 @@
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\GÖRÜNTÜ İŞLEME.exe.config
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\GÖRÜNTÜ İŞLEME.exe
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\GÖRÜNTÜ İŞLEME.pdb
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ İŞLEME.csprojAssemblyReference.cache
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ_İŞLEME.Properties.Resources.resources
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ İŞLEME.csproj.GenerateResource.cache
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ İŞLEME.csproj.CoreCompileInputs.cache
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ İŞLEME.exe
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ İŞLEME.pdb
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Data.v21.1.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Utils.v21.1.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Data.v21.1.xml
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Utils.v21.1.xml
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ İŞLEME.csproj.CopyComplete
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ_İŞLEME.Histogram.resources
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ_İŞLEME.Filtreler.resources
+E:\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ_İŞLEME.Perspektif.resources
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\GÖRÜNTÜ İŞLEME.exe.config
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\GÖRÜNTÜ İŞLEME.exe
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\GÖRÜNTÜ İŞLEME.pdb
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ İŞLEME.csprojAssemblyReference.cache
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ_İŞLEME.Filtreler.resources
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ_İŞLEME.Histogram.resources
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ_İŞLEME.Perspektif.resources
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ_İŞLEME.Properties.Resources.resources
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ İŞLEME.csproj.GenerateResource.cache
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ İŞLEME.csproj.CoreCompileInputs.cache
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ İŞLEME.csproj.CopyComplete
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ İŞLEME.exe
+C:\Users\الفرات للاتصالات\Desktop\Mohamad Albarjas 194410812\GÖRÜNTÜ İŞLEME\GÖRÜNTÜ İŞLEME\obj\Debug\GÖRÜNTÜ İŞLEME.pdb
